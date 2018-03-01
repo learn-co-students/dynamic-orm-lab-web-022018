@@ -4,4 +4,7 @@ require 'interactive_record.rb'
 
 class Student < InteractiveRecord
 
+  set_attributes
+
+
 end
